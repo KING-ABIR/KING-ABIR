@@ -7,13 +7,13 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "𝐍𝐀𝐘𝐄𝐌-𝐁𝐎𝐓",
+  "BOTNAME": "KING-ABIR",
   "PREFIX": "/",
   "OPERATOR": [
     "100067342487862"
   ],
   "ADMINBOT": [
-    "100086604581735",
+    "100081105660609",
     "100067342487862"
   ],
   "OWNER": ["100000959749712"], 
