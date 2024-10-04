@@ -25,13 +25,13 @@ const time = process.uptime(),
     seconds = Math.floor(time % 60);
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Manila").format("『D/MM/YYYY』 【hh:mm:ss】");
-var link = ["https://i.postimg.cc/ZnbXhYTY/inbound2931345345072188232.jpg", 
+var link = ["", 
 
-            "https://i.postimg.cc/2SSjxmhD/inbound4755129997776083166.jpg", 
+            "https://i.postimg.cc/HxWzWgRt/inbound3374527567436594171.jpg", 
 
-            "https://i.postimg.cc/rz6yJt1Z/inbound6885868082530802578.jpg",
+          "",
 
-"https://i.postimg.cc/0QxyKgYW/inbound4628190817202335261.jpg",
+"",
 
             ""];
 
@@ -40,19 +40,19 @@ ________________________________________
 
 ❇️𝙱𝙾𝚃 𝙽𝙰𝙼𝙴 : ${global.config.BOTNAME}
 
-❇️𝙱𝙾𝚃 𝙰𝙳𝙼𝙸𝙽 :『 𝙽𝙰𝚈𝙴𝙼-𝚅𝙰𝚆 』
+❇️𝙱𝙾𝚃 𝙰𝙳𝙼𝙸𝙽 :『 ABIR-𝚅𝙰𝚆 』
 
 ❇️𝙰𝙳𝙳𝚁𝙴𝚂𝚂 : 𝙿𝚃𝙺
 
 _____________𝙲𝙾𝙽𝚃𝙰𝙲𝚃_____________
 
-❇️𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙸𝙳 : https://www.facebook.com/NAYEM.KING.OKY
+❇️𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙸𝙳 : https://www.facebook.com/profile.php?id=100081105660609&mibextid=ZbWKwL
 
 ❇️𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝚔 𝙿𝙰𝙶𝙴: 
 
 ❇️𝙱𝙾𝚃 𝙿𝚁𝙴𝙵𝙸𝚇 : ${global.config.PREFIX}
 
-❇️𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 :  𝙽𝙰𝚈𝙴𝙼-𝚅𝙰𝚆
+❇️𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 :  ABIR-𝚅𝙰𝚆
 
 𝙾𝚃𝙷𝙴𝚁 𝙸𝙽𝙵𝙾𝙼𝙰𝚃𝙸𝙾𝙽____________________
 
